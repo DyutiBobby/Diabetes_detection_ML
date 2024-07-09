@@ -13,6 +13,7 @@ ACCURACY --> 90.71%
 
 **XGBoost:-**
 ACCURACY --> 82.46%
+
 **Plots:-**
 
 ![image](https://github.com/Atharva-D/Assignment-Submission/blob/main/BMI%20vs%20Age.png)
